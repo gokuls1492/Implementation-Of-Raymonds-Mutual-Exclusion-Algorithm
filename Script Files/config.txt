@@ -1,0 +1,20 @@
+#
+# Configuration file for CS/CE 6378 Project 2
+# (Summer 2017)
+#
+# As per the "shell" convention, anything following a hash sign is
+# a comment and should be ignored by the parser.
+#
+#number of nodes#inter-request delay (in milliseconds)#cs-execution time (in milliseconds)#number of requests each node should generate.
+10 20 10 300
+# Format is:
+0 dc23 1234 6
+1 dc21 1233 2
+2 dc19 1233 8
+3 dc26 1232 0
+4 dc28 1233 1
+5 dc27 1433 7
+6 dc29 1678 8
+7 dc43 1254 6
+8 dc42 1456 8
+9 dc12 2345 3
